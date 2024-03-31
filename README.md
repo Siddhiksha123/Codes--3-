@@ -9,3 +9,4 @@ Bias Reduction: Minimize human biases in the screening process by relying on alg
 Efficiency: Speed up the resume screening process, allowing recruiters to focus on more strategic tasks.
 
 https://imgs.search.brave.com/UC2bjpmf2QnwQlGaUzltBYnRyfyseA9x8xgsxZhLFCE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vdGhlY2xl/dmVycHJvZ3JhbW1l/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjAvMTIvcmVz/dW1lLWRpc3RyaWJ1/dGlvbi5wbmc_cmVz/aXplPTcwNCw2NTEm/c3NsPTE
+![image](https://github.com/Siddhiksha123/Codes--3-/assets/93310417/a7ad9f91-e8ca-4120-8de3-3fba4ea75508)
